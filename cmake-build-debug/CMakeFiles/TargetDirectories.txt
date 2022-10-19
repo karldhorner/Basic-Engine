@@ -1,0 +1,3 @@
+C:/Users/broke/OneDrive/Documents/EngineDev/MemoryManagement/Renderer/cmake-build-debug/CMakeFiles/Renderer.dir
+C:/Users/broke/OneDrive/Documents/EngineDev/MemoryManagement/Renderer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/broke/OneDrive/Documents/EngineDev/MemoryManagement/Renderer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
